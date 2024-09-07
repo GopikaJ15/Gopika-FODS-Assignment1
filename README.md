@@ -2,7 +2,7 @@
 
 # Amazon Sales Data Analysis
 
-## Introduction
+## Introduction..
 
 This project involves analyzing Amazon sales data to extract meaningful insights. The dataset contains various details about sales, including regions, countries, item types, sales channels, order priorities, order and ship dates, units sold, unit prices, unit costs, total revenues, total costs, and total profits.
 
